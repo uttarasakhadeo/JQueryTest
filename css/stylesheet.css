@@ -1,0 +1,7 @@
+.ui-icon-logo{
+    background-image: url(/images/logo.png);
+    background-repeat: no-repeat;
+}
+.ui-icon-logo {
+    background-position: 0 50%;
+}
